@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+
+# Project specific
+question_history.json
+*.log
+.env
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+.DS_Store 
+
+# Add these if not already present
+openaikey.txt
+.env
+*.key
+difficulty_settings.json
+all_sessions_stats.json
+CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf
